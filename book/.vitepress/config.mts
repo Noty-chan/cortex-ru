@@ -12,6 +12,7 @@ export default defineConfig({
       { text: 'Книга', link: '/contents' },
       { text: 'Моё чтение', link: '/reader' },
       { text: 'Глоссарий', link: '/glossary' },
+      { text: 'Лист', link: '/character-sheet' },
     ],
     sidebar: [
       { text: 'Книга', items: [
@@ -22,6 +23,7 @@ export default defineConfig({
       { text: 'Читателю', items: [
         { text: 'Моё чтение', link: '/reader' },
         { text: 'О переводе', link: '/about' },
+        { text: 'Лист персонажа', link: '/character-sheet' },
       ] },
     ],
     search: {
