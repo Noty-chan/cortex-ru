@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1090" role="img" aria-labelledby="title desc">
+<title id="title">Готовая карта жизненных путей</title>
+<desc id="desc">Инженер связана с Героем, Мудрецом, Иоландой, Светящимися существами, Очками инженера, Новой паровой эпохой, Паровым городом, HMS Astonish и Гражданскими волнениями. Связи других PC и неназванные элементы показаны отдельно.</desc>
+<rect width="1100" height="1090" rx="22" fill="#25232e"/>
+<g font-family="Arial, sans-serif" text-anchor="middle" fill="#eee9f4">
+<text x="550" y="44" font-size="27">Готовая карта жизненных путей</text>
+<path d="M550,360 L310,730" fill="none" stroke="#ed558e" stroke-width="4"/>
+<path d="M550,360 L790,730" fill="none" stroke="#ed558e" stroke-width="4"/>
+<path d="M550,360 L410,155" fill="none" stroke="#ed558e" stroke-width="2"/>
+<path d="M550,360 L700,155" fill="none" stroke="#ed558e" stroke-width="2"/>
+<path d="M550,360 L200,360" fill="none" stroke="#ed558e" stroke-width="2"/>
+<path d="M550,360 L900,360" fill="none" stroke="#ed558e" stroke-width="2"/>
+<path d="M550,360 L220,530" fill="none" stroke="#ed558e" stroke-width="2"/>
+<path d="M550,360 L550,600" fill="none" stroke="#ed558e" stroke-width="2"/>
+<path d="M550,360 L880,530" fill="none" stroke="#ed558e" stroke-width="2"/>
+<path d="M310,730 L220,530" fill="none" stroke="#78cba4" stroke-width="2"/>
+<path d="M310,730 L550,600" fill="none" stroke="#78cba4" stroke-width="2"/>
+<path d="M310,730 L880,530" fill="none" stroke="#78cba4" stroke-width="2"/>
+<path d="M790,730 L220,530" fill="none" stroke="#78cba4" stroke-width="2"/>
+<path d="M790,730 L550,600" fill="none" stroke="#78cba4" stroke-width="2"/>
+<path d="M790,730 L880,530" fill="none" stroke="#78cba4" stroke-width="2"/>
+<path d="M310,730 L790,730" fill="none" stroke="#78cba4" stroke-width="4"/>
+<path d="M310,730 L110,700" fill="none" stroke="#78cba4" stroke-width="2" stroke-dasharray="10 8"/>
+<path d="M310,730 L110,830" fill="none" stroke="#78cba4" stroke-width="2" stroke-dasharray="10 8"/>
+<path d="M310,730 L310,920" fill="none" stroke="#78cba4" stroke-width="2" stroke-dasharray="10 8"/>
+<path d="M310,730 L550,940" fill="none" stroke="#78cba4" stroke-width="2" stroke-dasharray="10 8"/>
+<path d="M790,730 L990,700" fill="none" stroke="#78cba4" stroke-width="2" stroke-dasharray="10 8"/>
+<path d="M790,730 L990,830" fill="none" stroke="#78cba4" stroke-width="2" stroke-dasharray="10 8"/>
+<path d="M790,730 L790,920" fill="none" stroke="#78cba4" stroke-width="2" stroke-dasharray="10 8"/>
+<path d="M790,730 L550,940" fill="none" stroke="#78cba4" stroke-width="2" stroke-dasharray="10 8"/>
+<rect x="455" y="323" width="190" height="74" rx="3" fill="#c90050" stroke="#c90050" stroke-width="2"/>
+<text x="550" y="367.0" font-size="23" font-weight="bold">Инженер</text>
+<rect x="215" y="693" width="190" height="74" rx="3" fill="#c90050" stroke="#c90050" stroke-width="2"/>
+<text x="310" y="737.0" font-size="23" font-weight="bold">Герой</text>
+<rect x="695" y="693" width="190" height="74" rx="3" fill="#c90050" stroke="#c90050" stroke-width="2"/>
+<text x="790" y="737.0" font-size="23" font-weight="bold">Мудрец</text>
+<ellipse cx="410" cy="155" rx="90" ry="40" fill="#396f5a" stroke="#396f5a" stroke-width="2"/>
+<text x="410" y="150.5" font-size="18" font-weight="bold">Светящиеся</text>
+<text x="410" y="173.5" font-size="18" font-weight="bold">существа</text>
+<ellipse cx="700" cy="155" rx="90" ry="40" fill="#396f5a" stroke="#396f5a" stroke-width="2"/>
+<text x="700" y="162.0" font-size="18" font-weight="bold">Иоланда</text>
+<polygon points="200,302 285,360 200,418 115,360" fill="#79549d" stroke="#79549d" stroke-width="2"/>
+<text x="200" y="355.5" font-size="18" font-weight="bold">Очки</text>
+<text x="200" y="378.5" font-size="18" font-weight="bold">инженера</text>
+<polygon points="900,300 975,405 825,405" fill="#18171e" stroke="#eee9f4" stroke-width="2"/>
+<text x="900" y="355.5" font-size="18" font-weight="bold">Новая паровая</text>
+<text x="900" y="378.5" font-size="18" font-weight="bold">эпоха</text>
+<polygon points="220,472 305,530 220,588 135,530" fill="#79549d" stroke="#79549d" stroke-width="2"/>
+<text x="220" y="525.5" font-size="18" font-weight="bold">Паровой</text>
+<text x="220" y="548.5" font-size="18" font-weight="bold">город</text>
+<polygon points="550,542 635,600 550,658 465,600" fill="#79549d" stroke="#79549d" stroke-width="2"/>
+<text x="550" y="595.5" font-size="18" font-weight="bold">HMS</text>
+<text x="550" y="618.5" font-size="18" font-weight="bold">Astonish</text>
+<polygon points="880,470 955,575 805,575" fill="#18171e" stroke="#eee9f4" stroke-width="2"/>
+<text x="880" y="525.5" font-size="18" font-weight="bold">Гражданские</text>
+<text x="880" y="548.5" font-size="18" font-weight="bold">волнения</text>
+<polygon points="110,642 195,700 110,758 25,700" fill="#25232e" stroke="#79549d" stroke-width="2" stroke-dasharray="9 7"/>
+<polygon points="110,772 195,830 110,888 25,830" fill="#25232e" stroke="#79549d" stroke-width="2" stroke-dasharray="9 7"/>
+<ellipse cx="310" cy="920" rx="90" ry="40" fill="#25232e" stroke="#396f5a" stroke-width="2" stroke-dasharray="9 7"/>
+<polygon points="990,640 1065,745 915,745" fill="#25232e" stroke="#eee9f4" stroke-width="2" stroke-dasharray="9 7"/>
+<polygon points="990,770 1065,875 915,875" fill="#25232e" stroke="#eee9f4" stroke-width="2" stroke-dasharray="9 7"/>
+<polygon points="790,862 875,920 790,978 705,920" fill="#25232e" stroke="#79549d" stroke-width="2" stroke-dasharray="9 7"/>
+<ellipse cx="550" cy="940" rx="90" ry="40" fill="#25232e" stroke="#396f5a" stroke-width="2" stroke-dasharray="9 7"/>
+<text x="550" y="1010" font-size="17">Прямоугольник — PC · Овал — второстепенный персонаж</text>
+<text x="550" y="1037" font-size="17">Треугольник — ситуация · Ромб — ресурс</text>
+<text x="550" y="1064" font-size="16">Розовые линии — связи Инженера · Зелёные — других PC · Пунктир — незаполненные элементы</text>
+</g></svg>
