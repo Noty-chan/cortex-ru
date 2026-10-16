@@ -1,0 +1,30 @@
+:root {
+  --vp-c-brand-1: #5b56a8;
+  --vp-c-brand-2: #746cc2;
+  --vp-c-brand-3: #524c9a;
+  --vp-font-family-base: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+.dark { --vp-c-brand-1: #b4aaff; --vp-c-brand-2: #c6beff; }
+.vp-doc p, .vp-doc li { line-height: 1.85; }
+.reader-tools {
+  display: flex; align-items: center; flex-wrap: wrap; gap: 12px;
+  padding-bottom: 20px; margin-bottom: 24px; border-bottom: 1px solid var(--vp-c-divider);
+  font-size: 14px;
+}
+.reader-tools button, .bookmark-list button {
+  border: 1px solid var(--vp-c-divider); border-radius: 10px; padding: 8px 14px;
+  min-height: 44px; cursor: pointer; background: var(--vp-c-bg-soft);
+}
+.reader-tools a, .reader-shelf a { color: var(--vp-c-brand-1); }
+.reader-tools span, .reader-note { color: var(--vp-c-text-2); font-size: 13px; }
+.bookmark-list { list-style: none !important; padding: 0 !important; }
+.bookmark-list li {
+  display: flex; justify-content: space-between; align-items: center; gap: 16px;
+  padding: 14px 0; border-bottom: 1px solid var(--vp-c-divider);
+}
+.bookmark-list a { overflow-wrap: anywhere; }
+button:focus-visible, a:focus-visible { outline: 2px solid var(--vp-c-brand-1); outline-offset: 3px; }
+@media (max-width: 640px) {
+  .vp-doc { font-size: 17px; }
+  .reader-tools { gap: 10px; }
+}

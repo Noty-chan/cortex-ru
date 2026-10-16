@@ -1,0 +1,15 @@
+{
+  "name": "cortex-ru",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev book --host 127.0.0.1",
+    "build": "vitepress build book",
+    "preview": "vitepress preview book --host 127.0.0.1"
+  },
+  "devDependencies": {
+    "vitepress": "1.6.4",
+    "vue": "^3.5.0"
+  }
+}
