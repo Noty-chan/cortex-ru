@@ -10,7 +10,7 @@ next:
 
 # Пулы ресурсов {#resource-pools}
 
-> Источник: *Cortex Prime Game Handbook*, Cam Banks, Fandom, 2020, с.155 (PDF159). Статус: сверено с оригиналом; независимая проверка и литературная вычитка впереди.
+> Источник: *Cortex Prime Game Handbook*, Cam Banks, Fandom, 2020, с.155 (PDF159). Статус: сверено с оригиналом; независимая проверка пройдена, литературная вычитка впереди.
 
 ![Hammerhead как база спасательной операции](/images/original/pdf-159-art-01.webp)
 

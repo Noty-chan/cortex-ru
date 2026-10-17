@@ -10,7 +10,7 @@ next:
 
 # Отношения и отличительные черты агентов {#agent-relationships-and-distinctions}
 
-> Источник: *Cortex Prime Game Handbook*, Cam Banks, Fandom, 2020, с.153 (PDF157). Статус: сверено с оригиналом; независимая проверка и литературная вычитка впереди.
+> Источник: *Cortex Prime Game Handbook*, Cam Banks, Fandom, 2020, с.153 (PDF157). Статус: сверено с оригиналом; независимая проверка пройдена, литературная вычитка впереди.
 
 ![Команда Hammerheads](/images/original/pdf-157-art-01.webp)
 

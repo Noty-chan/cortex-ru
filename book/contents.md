@@ -99,7 +99,7 @@
 
 ## 5. Сеттинги
 
-Переведены с.124–163 / PDF128–167, включая Eidolon Alpha и Hammerheads целиком. С.124–149 независимо проверены; ревью Hammerheads впереди.
+Глава переведена целиком: с.124–179 / PDF128–183. Независимая проверка всей главы пройдена. Литературная вычитка впереди.
 
 1. [Обзор главы](./chapters/settings) — с.124–125.
 2. [Жанры, тема и настроение](./chapters/settings-genres) — с.126–127.
@@ -132,11 +132,36 @@
 29. [Кризисные пулы как угрозы](./chapters/hammerheads-crisis-threats) — с.159.
 30. [Проведение Hammerheads](./chapters/hammerheads-running) — с.160–161.
 31. [Продолжение и пример листов](./chapters/hammerheads-files) — с.162–163.
+32. [TRACE 2.0](./chapters/trace) — с.164–165.
+33. [Роли TRACE](./chapters/trace-roles) — с.166.
+34. [Общие таланты TRACE](./chapters/trace-talents) — с.166–167.
+35. [Ресурсы и стресс TRACE](./chapters/trace-resources-stress) — с.167.
+36. [Создание персонажа TRACE](./chapters/trace-creation) — с.168.
+37. [Криминалист, детектив и прокурор](./chapters/trace-archetypes-law) — с.168–169.
+38. [Парамедик и переговорщик](./chapters/trace-archetypes-care) — с.170.
+39. [SWAT и киберпреступность](./chapters/trace-archetypes-tech) — с.171.
+40. [Развитие TRACE](./chapters/trace-growth) — с.172.
+41. [GMC и пороки TRACE](./chapters/trace-gmcs) — с.173.
+42. [Проведение TRACE](./chapters/trace-running) — с.174.
+43. [Кортес-Сити и Амонтильядо](./chapters/trace-city) — с.175.
+44. [Центр и Эль-Рио-Дорадо](./chapters/trace-city-center) — с.176.
+45. [Нортон-Эстейтс и Риджтоп](./chapters/trace-city-outskirts) — с.177.
+46. [Марина и продолжение TRACE](./chapters/trace-marina) — с.178.
+47. [Лист TRACE — пример](./chapters/trace-character-file) — с.179.
+
+## 6. Списки
+
+Переведены с.180–183 / PDF184–187; независимая проверка пройдена. Литературная вычитка впереди.
+
+1. [Обзор главы](./chapters/lists) — с.180–181.
+2. [Список сил](./chapters/lists-powers) — с.182.
+3. [Атакующие силы](./chapters/lists-powers-attacks) — с.182.
+4. [Прочность](./chapters/lists-powers-durability) — с.183.
+5. [Управление стихиями](./chapters/lists-powers-elements) — с.183.
 
 ## Остальные главы
 
 Перевод ещё не начат:
 
-- Продолжение готовых сеттингов (Prime Settings), с.164–179.
-- Списки (Prime Lists), с. 180–227.
+- Продолжение списков (Prime Lists), с.184–227.
 - Словарь, указатель и приложения.
