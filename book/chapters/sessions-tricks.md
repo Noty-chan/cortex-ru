@@ -3,7 +3,9 @@ title: Приёмы для встреч
 prev:
   text: Проведение встречи
   link: /chapters/sessions-running
-next: false
+next:
+  text: Сеттинги
+  link: /chapters/settings
 ---
 
 # Приёмы для встреч {#session-tricks}

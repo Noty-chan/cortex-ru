@@ -97,10 +97,46 @@
 9. [Проведение встречи](./chapters/sessions-running) — с. 120–122.
 10. [Приёмы для встреч](./chapters/sessions-tricks) — с. 123.
 
+## 5. Сеттинги
+
+Переведены с.124–163 / PDF128–167, включая Eidolon Alpha и Hammerheads целиком. С.124–149 независимо проверены; ревью Hammerheads впереди.
+
+1. [Обзор главы](./chapters/settings) — с.124–125.
+2. [Жанры, тема и настроение](./chapters/settings-genres) — с.126–127.
+3. [Выберите три и добавьте Cortex](./chapters/settings-buffet) — с.128.
+4. [Смешение жанров](./chapters/settings-mixing) — с.129–130.
+5. [Проработка мира](./chapters/settings-building) — с.131.
+6. [Eidolon Alpha](./chapters/eidolon) — с.132–133.
+7. [Эйдолоны и эндархи](./chapters/eidolon-spirits) — с.134–135.
+8. [Химера](./chapters/eidolon-chimera) — с.136.
+9. [Горгон](./chapters/eidolon-gorgon) — с.137.
+10. [Грифон](./chapters/eidolon-griffin) — с.138.
+11. [Минотавр](./chapters/eidolon-minotaur) — с.139.
+12. [Виверна](./chapters/eidolon-wyvern) — с.140.
+13. [Эйдолоны противников](./chapters/eidolon-antagonists) — с.141.
+14. [Эйдолоны в игре](./chapters/eidolon-summoning) — с.142.
+15. [Роли эндархов](./chapters/eidolon-roles) — с.143–145.
+16. [Создание и развитие эндарха](./chapters/eidolon-creation) — с.145.
+17. [Проведение Eidolon Alpha](./chapters/eidolon-running) — с.146–147.
+18. [Поворот и продолжение](./chapters/eidolon-twist) — с.148.
+19. [Лист эндарха — пример](./chapters/eidolon-character-file) — с.149.
+20. [Hammerheads](./chapters/hammerheads) — с.150–151.
+21. [Правила и подготовка агентов](./chapters/hammerheads-agents) — с.152.
+22. [Отношения и отличительные черты агентов](./chapters/hammerheads-relationships) — с.153.
+23. [Аппараты Hammerhead](./chapters/hammerheads-vehicles) — с.154.
+24. [Пулы ресурсов](./chapters/hammerheads-resources) — с.155.
+25. [Создание и развитие агента](./chapters/hammerheads-creation) — с.156.
+26. [Катастрофы](./chapters/hammerheads-disasters) — с.157.
+27. [Катастрофы и кризисные пулы](./chapters/hammerheads-crises) — с.158.
+28. [Действия против кризиса](./chapters/hammerheads-crisis-actions) — с.159.
+29. [Кризисные пулы как угрозы](./chapters/hammerheads-crisis-threats) — с.159.
+30. [Проведение Hammerheads](./chapters/hammerheads-running) — с.160–161.
+31. [Продолжение и пример листов](./chapters/hammerheads-files) — с.162–163.
+
 ## Остальные главы
 
 Перевод ещё не начат:
 
-- Сеттинги (Prime Settings), с. 124–179.
+- Продолжение готовых сеттингов (Prime Settings), с.164–179.
 - Списки (Prime Lists), с. 180–227.
 - Словарь, указатель и приложения.

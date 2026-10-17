@@ -5,7 +5,7 @@ from pathlib import Path
 from PIL import Image
 from pypdf import PdfReader
 reader = PdfReader(next(Path('sources').glob('Cortex Prime - Game Handbook*.pdf')))
-pairs = [(8,9),(18,19),(34,35),(36,37),(48,49),(68,69),(90,91),(112,113),(114,115),(118,119)]
+pairs = [(8,9),(18,19),(34,35),(36,37),(48,49),(68,69),(90,91),(112,113),(114,115),(118,119),(128,129),(130,131),(134,135),(136,137),(138,139),(154,155)]
 out = Path('book/public/images/spreads')
 out.mkdir(parents=True,exist_ok=True)
 for left,right in pairs:
@@ -14,7 +14,9 @@ for left,right in pairs:
         continue
     images=[]
     for page in [left,right]:
-        images.append(next(x.image for x in reader.pages[page-1].images if x.name.endswith('.jp2')).convert('RGBA'))
+        items=[x.image for x in reader.pages[page-1].images if x.name.endswith('.jp2')]
+        index=1 if (left,right)==(134,135) and page==135 else 0
+        images.append(items[index].convert('RGBA'))
     a,b=images
     assert a.height==b.height,(left,right,a.size,b.size)
     # Each source contains about 1pt of gutter bleed; remove 2px from each inner edge.
