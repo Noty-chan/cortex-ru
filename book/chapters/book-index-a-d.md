@@ -50,7 +50,7 @@ next:
 
 Эндарх — [135–140](/source-pages#p-135); пример — [68–69](/source-pages#p-68), [168–171](/source-pages#p-168).
 
-### Атака / эффект по области (Area Attack/Effect) — [191](/source-pages#p-191) {#area-attack}
+### Атака / эффект по площади (Area Attack/Effect) — [191](/source-pages#p-191) {#area-attack}
 
 Спецэффект или свойство, позволяющие персонажу воздействовать на несколько целей одним броском.
 
@@ -124,7 +124,7 @@ next:
 
 ### Модификации осложнений (Complication Mods) {#complication-mods}
 
-Очки жизни — [43](/source-pages#p-43); форсирование стресса — [40](/source-pages#p-40); потрясённый и поражённый — [42](/source-pages#p-42), [133](/source-pages#p-133), [152](/source-pages#p-152); стресс — [39](/source-pages#p-39), [152](/source-pages#p-152), [167](/source-pages#p-167); травма — [41](/source-pages#p-41).
+Очки жизни — [43](/source-pages#p-43); действовать через стресс — [40](/source-pages#p-40); потрясённый и поражённый — [42](/source-pages#p-42), [133](/source-pages#p-133), [152](/source-pages#p-152); стресс — [39](/source-pages#p-39), [152](/source-pages#p-152), [167](/source-pages#p-167); травма — [41](/source-pages#p-41).
 
 ### Модификации конфликтов (Conflict Mods) {#conflict-mods}
 
