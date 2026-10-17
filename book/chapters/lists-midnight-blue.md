@@ -3,7 +3,9 @@ title: Полуночная Синева
 prev:
   text: Эликс
   link: /chapters/lists-elix
-next: false
+next:
+  text: Словарь и указатель — A–D
+  link: /chapters/book-index-a-d
 ---
 
 # Полуночная Синева (Midnight-Blue) {#midnight-blue}

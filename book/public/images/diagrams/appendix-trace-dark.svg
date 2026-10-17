@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1700" viewBox="0 0 1200 1700" role="img"><title>TRACE 2.0 — лист персонажа</title><desc>Источник: с.245 / PDF249. Совет оригинала: для лучшего результата пользуйтесь карандашом.</desc><style>text{font-family:Arial,sans-serif;fill:#edf0f7}.muted{fill:#abb7cd}.accent{fill:#f399bd}.rule{stroke:#69758d;stroke-width:1.5}</style><rect width="1200" height="1700" rx="20" fill="#191c25"/>
+<text x="40" y="60" font-size="34" class="accent">TRACE 2.0 — лист персонажа</text>
+<text x="40" y="96" font-size="17" class="muted">Источник: с.245 / PDF249. Совет оригинала: для лучшего результата пользуйтесь карандашом.</text>
+<line x1="40" y1="116" x2="1160" y2="116" class="rule"/>
+<text x="40" y="150" font-size="18" class="muted">Имя:</text>
+<line x1="40" y1="180" x2="390" y2="180" class="rule"/>
+<text x="40" y="215" font-size="18" class="muted">Прошлое:</text>
+<line x1="40" y1="245" x2="390" y2="245" class="rule"/>
+<text x="440" y="150" font-size="18" class="muted">Описание:</text>
+<line x1="440" y1="180" x2="1160" y2="180" class="rule"/>
+<line x1="440" y1="245" x2="1160" y2="245" class="rule"/>
+<rect x="40" y="280" width="360" height="300" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="56" y="310" font-size="22" class="accent">Принадлежности</text>
+<text x="56" y="347" font-size="21" class="">Один</text>
+<text x="56" y="379" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="425" font-size="21" class="">Вдвоём</text>
+<text x="56" y="457" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="503" font-size="21" class="">Отрядом</text>
+<text x="56" y="535" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<rect x="40" y="600" width="360" height="630" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="56" y="630" font-size="22" class="accent">Роли</text>
+<text x="56" y="670" font-size="21" class="">Криминалистика</text>
+<text x="56" y="702" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="748" font-size="21" class="">Расследование</text>
+<text x="56" y="780" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="826" font-size="21" class="">Право</text>
+<text x="56" y="858" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="904" font-size="21" class="">Медицина</text>
+<text x="56" y="936" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="982" font-size="21" class="">Психология</text>
+<text x="56" y="1014" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="1060" font-size="21" class="">Тактика</text>
+<text x="56" y="1092" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="1138" font-size="21" class="">Технологии</text>
+<text x="56" y="1170" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<rect x="40" y="1250" width="360" height="355" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="56" y="1280" font-size="22" class="accent">Ресурсы</text>
+<text x="56" y="1310" font-size="18" class="muted">2d10 —</text>
+<line x1="56" y1="1340" x2="384" y2="1340" class="rule"/>
+<text x="56" y="1355" font-size="18" class="muted">2d8 —</text>
+<line x1="56" y1="1385" x2="384" y2="1385" class="rule"/>
+<text x="56" y="1400" font-size="18" class="muted">2d6 —</text>
+<line x1="56" y1="1430" x2="384" y2="1430" class="rule"/>
+<text x="56" y="1445" font-size="18" class="muted">2d6 —</text>
+<line x1="56" y1="1475" x2="384" y2="1475" class="rule"/>
+<text x="56" y="1490" font-size="18" class="muted">_____ —</text>
+<line x1="56" y1="1520" x2="384" y2="1520" class="rule"/>
+<text x="56" y="1535" font-size="18" class="muted">_____ —</text>
+<line x1="56" y1="1565" x2="384" y2="1565" class="rule"/>
+<rect x="430" y="280" width="730" height="300" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="446" y="310" font-size="22" class="accent">Отличительные черты</text>
+<text x="450" y="340" font-size="18" class="muted">Отличительная черта №1:</text>
+<line x1="450" y1="370" x2="1140" y2="370" class="rule"/>
+<text x="450" y="404" font-size="18" class="muted">Отличительная черта №2:</text>
+<line x1="450" y1="434" x2="1140" y2="434" class="rule"/>
+<text x="450" y="468" font-size="18" class="muted">Отличительная черта №3:</text>
+<line x1="450" y1="498" x2="1140" y2="498" class="rule"/>
+<text x="450" y="610" font-size="19" class="">Помеха: получите 1 PP, когда заменяете d8 этой отличительной черты</text>
+<text x="450" y="636" font-size="19" class="">на d4.</text>
+<rect x="430" y="690" width="730" height="520" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="446" y="720" font-size="22" class="accent">Таланты</text>
+<text x="450" y="750" font-size="18" class="muted">Талант №1:</text>
+<line x1="450" y1="780" x2="1140" y2="780" class="rule"/>
+<text x="450" y="825" font-size="18" class="muted">Талант №2:</text>
+<line x1="450" y1="855" x2="1140" y2="855" class="rule"/>
+<text x="450" y="900" font-size="18" class="muted">Талант №3:</text>
+<line x1="450" y1="930" x2="1140" y2="930" class="rule"/>
+<text x="450" y="975" font-size="18" class="muted">Талант №4:</text>
+<line x1="450" y1="1005" x2="1140" y2="1005" class="rule"/>
+<text x="450" y="1050" font-size="18" class="muted">Талант №5:</text>
+<line x1="450" y1="1080" x2="1140" y2="1080" class="rule"/>
+<text x="450" y="1125" font-size="18" class="muted">Талант №6:</text>
+<line x1="450" y1="1155" x2="1140" y2="1155" class="rule"/>
+<rect x="430" y="1230" width="730" height="375" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="446" y="1260" font-size="22" class="accent">Стресс</text>
+<text x="450" y="1300" font-size="20" class="">Испуг</text>
+<text x="650" y="1300" font-size="18" class="">□ d4   □ d6   □ d8   □ d10   □ d12</text>
+<text x="450" y="1350" font-size="20" class="">Гнев</text>
+<text x="650" y="1350" font-size="18" class="">□ d4   □ d6   □ d8   □ d10   □ d12</text>
+<text x="450" y="1400" font-size="20" class="">Тревога</text>
+<text x="650" y="1400" font-size="18" class="">□ d4   □ d6   □ d8   □ d10   □ d12</text>
+<text x="450" y="1450" font-size="20" class="">Истощение</text>
+<text x="650" y="1450" font-size="18" class="">□ d4   □ d6   □ d8   □ d10   □ d12</text>
+<text x="450" y="1500" font-size="20" class="">Ранение</text>
+<text x="650" y="1500" font-size="18" class="">□ d4   □ d6   □ d8   □ d10   □ d12</text>
+<text x="450" y="1570" font-size="20" class="">Пул развития — база: 2d6. Текущий пул: __________</text>
+<text x="40" y="1675" font-size="15" class="muted">Русское воспроизведение • Cortex Prime Game Handbook, 2020 • функциональная разметка сохранена</text>
+</svg>

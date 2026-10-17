@@ -21,6 +21,20 @@ manifest_path = Path('translation/artwork-inventory.json')
 manifest = json.loads(manifest_path.read_text(encoding='utf-8')) if manifest_path.exists() else {}
 for number in range(args.first, args.last+1):
     items = []
+    if number in (1,256):
+        # The cover's resource dictionary contains many JPEG tiles (and hidden
+        # objects from the full wrap). Render the visible PDF page as one asset.
+        import subprocess
+        from PIL import Image
+        preview=Path(f'output/source-review/page-{number:03}.png')
+        if not preview.exists():
+            preview.parent.mkdir(parents=True,exist_ok=True)
+            subprocess.run(['pdftoppm','-f',str(number),'-l',str(number),'-scale-to','1700','-png',str(source),'output/source-review/page'],check=True)
+        im=Image.open(preview)
+        path=out/f'pdf-{number:03}-cover.webp'
+        im.save(path,format='WEBP',quality=95,method=4)
+        manifest[str(number)]={'pdf_page':number,'printed_page':None,'images':[{'source_image':'visible page render (pdftoppm)','output':path.as_posix(),'width':im.width,'height':im.height,'mode':im.mode}]}
+        continue
     for index, item in enumerate(x for x in reader.pages[number-1].images if x.name.endswith('.jp2')):
         path = out / f'pdf-{number:03}-art-{index+1:02}.webp'
         if not path.exists():

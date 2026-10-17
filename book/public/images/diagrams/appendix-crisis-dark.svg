@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1100" viewBox="0 0 1200 1100" role="img"><title>КРИЗИСНЫЕ ПУЛЫ</title><desc>Источник: с.247 / PDF251, нижняя половина.</desc><style>text{font-family:Arial,sans-serif;fill:#edf0f7}.muted{fill:#abb7cd}.accent{fill:#f399bd}.rule{stroke:#69758d;stroke-width:1.5}</style><rect width="1200" height="1100" rx="20" fill="#191c25"/>
+<text x="40" y="60" font-size="34" class="accent">КРИЗИСНЫЕ ПУЛЫ</text>
+<text x="40" y="96" font-size="17" class="muted">Источник: с.247 / PDF251, нижняя половина.</text>
+<line x1="40" y1="116" x2="1160" y2="116" class="rule"/>
+<text x="40" y="160" font-size="20" class="">Впишите название кризисного пула в каждый сектор. Над значками подходящих костей запишите число костей</text>
+<text x="40" y="187" font-size="20" class="">его начальной оценки. Положите кости каждого кризисного пула в большую пустую область.</text>
+<rect x="40" y="270" width="550" height="350" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="56" y="300" font-size="22" class="accent">Название: _____________________</text>
+<text x="60" y="350" font-size="19" class="muted">Начальная оценка: количество костей</text>
+<text x="60" y="395" font-size="20" class="">___ d6     ___ d8     ___ d10     ___ d12</text>
+<text x="60" y="455" font-size="19" class="muted">Место для костей пула</text>
+<rect x="615" y="270" width="550" height="350" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="631" y="300" font-size="22" class="accent">Название: _____________________</text>
+<text x="635" y="350" font-size="19" class="muted">Начальная оценка: количество костей</text>
+<text x="635" y="395" font-size="20" class="">___ d6     ___ d8     ___ d10     ___ d12</text>
+<text x="635" y="455" font-size="19" class="muted">Место для костей пула</text>
+<rect x="40" y="650" width="550" height="350" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="56" y="680" font-size="22" class="accent">Название: _____________________</text>
+<text x="60" y="730" font-size="19" class="muted">Начальная оценка: количество костей</text>
+<text x="60" y="775" font-size="20" class="">___ d6     ___ d8     ___ d10     ___ d12</text>
+<text x="60" y="835" font-size="19" class="muted">Место для костей пула</text>
+<rect x="615" y="650" width="550" height="350" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="631" y="680" font-size="22" class="accent">Название: _____________________</text>
+<text x="635" y="730" font-size="19" class="muted">Начальная оценка: количество костей</text>
+<text x="635" y="775" font-size="20" class="">___ d6     ___ d8     ___ d10     ___ d12</text>
+<text x="635" y="835" font-size="19" class="muted">Место для костей пула</text>
+<text x="40" y="1075" font-size="15" class="muted">Русское воспроизведение • Cortex Prime Game Handbook, 2020 • функциональная разметка сохранена</text>
+</svg>

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1700" viewBox="0 0 1200 1700" role="img"><title>EIDOLON ALPHA — лист персонажа</title><desc>Источник: с.244 / PDF248. Совет оригинала: для лучшего результата пользуйтесь карандашом.</desc><style>text{font-family:Arial,sans-serif;fill:#edf0f7}.muted{fill:#abb7cd}.accent{fill:#f399bd}.rule{stroke:#69758d;stroke-width:1.5}</style><rect width="1200" height="1700" rx="20" fill="#191c25"/>
+<text x="40" y="60" font-size="34" class="accent">EIDOLON ALPHA — лист персонажа</text>
+<text x="40" y="96" font-size="17" class="muted">Источник: с.244 / PDF248. Совет оригинала: для лучшего результата пользуйтесь карандашом.</text>
+<line x1="40" y1="116" x2="1160" y2="116" class="rule"/>
+<text x="40" y="150" font-size="18" class="muted">Имя:</text>
+<line x1="40" y1="180" x2="390" y2="180" class="rule"/>
+<text x="40" y="215" font-size="18" class="muted">Прошлое:</text>
+<line x1="40" y1="245" x2="390" y2="245" class="rule"/>
+<text x="440" y="150" font-size="18" class="muted">Описание:</text>
+<line x1="440" y1="180" x2="1160" y2="180" class="rule"/>
+<line x1="440" y1="245" x2="1160" y2="245" class="rule"/>
+<rect x="40" y="280" width="360" height="400" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="56" y="310" font-size="22" class="accent">Роли</text>
+<text x="56" y="350" font-size="21" class="">Воин</text>
+<text x="56" y="382" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="433" font-size="21" class="">Жрец</text>
+<text x="56" y="465" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="516" font-size="21" class="">Разведчик</text>
+<text x="56" y="548" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="599" font-size="21" class="">Другая роль: __________</text>
+<text x="56" y="631" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<rect x="40" y="700" width="360" height="850" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="56" y="730" font-size="22" class="accent">Атрибуты</text>
+<text x="56" y="770" font-size="21" class="">Мужество</text>
+<text x="56" y="802" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="831" font-size="15" class="">Стресс:  □ d4  □ d6  □ d8  □ d10  □ d12</text>
+<text x="56" y="861" font-size="16" class="muted">Выделенный атрибут: ○</text>
+<text x="56" y="921" font-size="21" class="">Грация</text>
+<text x="56" y="953" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="982" font-size="15" class="">Стресс:  □ d4  □ d6  □ d8  □ d10  □ d12</text>
+<text x="56" y="1012" font-size="16" class="muted">Выделенный атрибут: ○</text>
+<text x="56" y="1072" font-size="21" class="">Хитрость</text>
+<text x="56" y="1104" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="1133" font-size="15" class="">Стресс:  □ d4  □ d6  □ d8  □ d10  □ d12</text>
+<text x="56" y="1163" font-size="16" class="muted">Выделенный атрибут: ○</text>
+<text x="56" y="1223" font-size="21" class="">Разум</text>
+<text x="56" y="1255" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="1284" font-size="15" class="">Стресс:  □ d4  □ d6  □ d8  □ d10  □ d12</text>
+<text x="56" y="1314" font-size="16" class="muted">Выделенный атрибут: ○</text>
+<text x="56" y="1374" font-size="21" class="">Выносливость</text>
+<text x="56" y="1406" font-size="17" class="muted">□ d4    □ d6    □ d8    □ d10    □ d12</text>
+<text x="56" y="1435" font-size="15" class="">Стресс:  □ d4  □ d6  □ d8  □ d10  □ d12</text>
+<text x="56" y="1465" font-size="16" class="muted">Выделенный атрибут: ○</text>
+<rect x="430" y="280" width="730" height="890" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="446" y="310" font-size="22" class="accent">Отличительная черта эндарха d8: __________________</text>
+<text x="452" y="345" font-size="18" class="muted">Сила 1 — d8:</text>
+<line x1="452" y1="375" x2="659" y2="375" class="rule"/>
+<text x="682" y="345" font-size="18" class="muted">Сила 2 — d8:</text>
+<line x1="682" y1="375" x2="889" y2="375" class="rule"/>
+<text x="912" y="345" font-size="18" class="muted">Сила 3 — d8:</text>
+<line x1="912" y1="375" x2="1119" y2="375" class="rule"/>
+<text x="452" y="440" font-size="19" class="">Помеха: получите 1 PP, когда заменяете d8 этой отличительной черты</text>
+<text x="452" y="466" font-size="19" class="">на d4.</text>
+<text x="452" y="537" font-size="18" class="muted">Спецэффект:</text>
+<line x1="452" y1="567" x2="1132" y2="567" class="rule"/>
+<text x="452" y="617" font-size="18" class="muted">Спецэффект:</text>
+<line x1="452" y1="647" x2="1132" y2="647" class="rule"/>
+<text x="452" y="697" font-size="18" class="muted">Спецэффект:</text>
+<line x1="452" y1="727" x2="1132" y2="727" class="rule"/>
+<text x="452" y="785" font-size="19" class="">Призыв: отключите отличительную черту эндарха, чтобы призвать</text>
+<text x="452" y="811" font-size="19" class="">своего эйдолона в следующий ход.</text>
+<rect x="452" y="885" width="686" height="260" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="468" y="915" font-size="22" class="accent">Призванный эйдолон</text>
+<text x="470" y="950" font-size="22" class="">Базовая черта: 2d10 или 2d4</text>
+<text x="470" y="994" font-size="22" class="">Масштаб: d8</text>
+<text x="470" y="1040" font-size="19" class="">Силы:  d12 ______  d12 ______  d12 ______</text>
+<text x="470" y="1095" font-size="19" class="">Выделенные атрибуты: d12 ______  d12 ______</text>
+<rect x="430" y="1190" width="730" height="150" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="446" y="1220" font-size="22" class="accent">Отличительная черта роли d8: __________________</text>
+<text x="450" y="1250" font-size="19" class="">Помеха: получите 1 PP, когда заменяете d8 этой отличительной</text>
+<text x="450" y="1276" font-size="19" class="">черты на d4.</text>
+<rect x="430" y="1360" width="730" height="150" rx="10" fill="#252a37" stroke="#535f75"/>
+<text x="446" y="1390" font-size="22" class="accent">Свободная отличительная черта d8: ______________</text>
+<text x="450" y="1420" font-size="19" class="">Помеха: получите 1 PP, когда заменяете d8 этой отличительной</text>
+<text x="450" y="1446" font-size="19" class="">черты на d4.</text>
+<text x="430" y="1560" font-size="18" class="muted">XP:</text>
+<line x1="430" y1="1590" x2="1160" y2="1590" class="rule"/>
+<text x="40" y="1675" font-size="15" class="muted">Русское воспроизведение • Cortex Prime Game Handbook, 2020 • функциональная разметка сохранена</text>
+</svg>
