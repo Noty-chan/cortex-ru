@@ -3,12 +3,14 @@ title: Воспоминания и завершение встречи
 prev:
   text: Проведение разных сцен
   link: /chapters/scenes-running-types
-next: false
+next:
+  text: Что такое конфликт
+  link: /chapters/scenes-conflict
 ---
 
 # Воспоминания и завершение встречи {#flashbacks-and-tags}
 
-> Источник: *Cortex Prime Game Handbook*, Cam Banks, Fandom, 2020, с. 96 (PDF 100). Статус: сверено с оригиналом; независимая проверка впереди, литературная вычитка впереди.
+> Источник: *Cortex Prime Game Handbook*, Cam Banks, Fandom, 2020, с. 96 (PDF 100). Статус: сверено с оригиналом; независимая проверка пройдена, литературная вычитка впереди.
 
 ## Проведение сцен воспоминаний {#running-flashback-scenes}
 

@@ -1276,5 +1276,451 @@
         "mode": "RGBA"
       }
     ]
+  },
+  "101": {
+    "pdf_page": 101,
+    "printed_page": 97,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-101-art-01.webp",
+        "width": 595,
+        "height": 1099,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "102": {
+    "pdf_page": 102,
+    "printed_page": 98,
+    "images": []
+  },
+  "103": {
+    "pdf_page": 103,
+    "printed_page": 99,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-103-art-01.webp",
+        "width": 594,
+        "height": 758,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "104": {
+    "pdf_page": 104,
+    "printed_page": 100,
+    "images": []
+  },
+  "105": {
+    "pdf_page": 105,
+    "printed_page": 101,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-105-art-01.webp",
+        "width": 1209,
+        "height": 957,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "106": {
+    "pdf_page": 106,
+    "printed_page": 102,
+    "images": [
+      {
+        "source_image": "Im1.jp2",
+        "output": "book/public/images/original/pdf-106-art-01.webp",
+        "width": 473,
+        "height": 579,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "107": {
+    "pdf_page": 107,
+    "printed_page": 103,
+    "images": []
+  },
+  "108": {
+    "pdf_page": 108,
+    "printed_page": 104,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-108-art-01.webp",
+        "width": 900,
+        "height": 581,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im1.jp2",
+        "output": "book/public/images/original/pdf-108-art-02.webp",
+        "width": 859,
+        "height": 557,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "109": {
+    "pdf_page": 109,
+    "printed_page": 105,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-109-art-01.webp",
+        "width": 734,
+        "height": 497,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im1.jp2",
+        "output": "book/public/images/original/pdf-109-art-02.webp",
+        "width": 462,
+        "height": 329,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im2.jp2",
+        "output": "book/public/images/original/pdf-109-art-03.webp",
+        "width": 483,
+        "height": 312,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "110": {
+    "pdf_page": 110,
+    "printed_page": 106,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-110-art-01.webp",
+        "width": 459,
+        "height": 317,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im1.jp2",
+        "output": "book/public/images/original/pdf-110-art-02.webp",
+        "width": 480,
+        "height": 275,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im2.jp2",
+        "output": "book/public/images/original/pdf-110-art-03.webp",
+        "width": 446,
+        "height": 295,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im3.jp2",
+        "output": "book/public/images/original/pdf-110-art-04.webp",
+        "width": 592,
+        "height": 323,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "111": {
+    "pdf_page": 111,
+    "printed_page": 107,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-111-art-01.webp",
+        "width": 666,
+        "height": 431,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im1.jp2",
+        "output": "book/public/images/original/pdf-111-art-02.webp",
+        "width": 484,
+        "height": 317,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im2.jp2",
+        "output": "book/public/images/original/pdf-111-art-03.webp",
+        "width": 442,
+        "height": 360,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im3.jp2",
+        "output": "book/public/images/original/pdf-111-art-04.webp",
+        "width": 468,
+        "height": 373,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "112": {
+    "pdf_page": 112,
+    "printed_page": 108,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-112-art-01.webp",
+        "width": 1211,
+        "height": 1571,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "113": {
+    "pdf_page": 113,
+    "printed_page": 109,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-113-art-01.webp",
+        "width": 488,
+        "height": 1571,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "114": {
+    "pdf_page": 114,
+    "printed_page": 110,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-114-art-01.webp",
+        "width": 1211,
+        "height": 729,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "115": {
+    "pdf_page": 115,
+    "printed_page": 111,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-115-art-01.webp",
+        "width": 1211,
+        "height": 729,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "116": {
+    "pdf_page": 116,
+    "printed_page": 112,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-116-art-01.webp",
+        "width": 1209,
+        "height": 555,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "117": {
+    "pdf_page": 117,
+    "printed_page": 113,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-117-art-01.webp",
+        "width": 1211,
+        "height": 585,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im1.jp2",
+        "output": "book/public/images/original/pdf-117-art-02.webp",
+        "width": 3,
+        "height": 555,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "118": {
+    "pdf_page": 118,
+    "printed_page": 114,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-118-art-01.webp",
+        "width": 816,
+        "height": 1071,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "119": {
+    "pdf_page": 119,
+    "printed_page": 115,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-119-art-01.webp",
+        "width": 1211,
+        "height": 1071,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "120": {
+    "pdf_page": 120,
+    "printed_page": 116,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-120-art-01.webp",
+        "width": 1211,
+        "height": 597,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "121": {
+    "pdf_page": 121,
+    "printed_page": 117,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-121-art-01.webp",
+        "width": 550,
+        "height": 693,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im1.jp2",
+        "output": "book/public/images/original/pdf-121-art-02.webp",
+        "width": 241,
+        "height": 237,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im2.jp2",
+        "output": "book/public/images/original/pdf-121-art-03.webp",
+        "width": 233,
+        "height": 233,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im3.jp2",
+        "output": "book/public/images/original/pdf-121-art-04.webp",
+        "width": 233,
+        "height": 233,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "122": {
+    "pdf_page": 122,
+    "printed_page": 118,
+    "images": [
+      {
+        "source_image": "Im1.jp2",
+        "output": "book/public/images/original/pdf-122-art-01.webp",
+        "width": 307,
+        "height": 307,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im2.jp2",
+        "output": "book/public/images/original/pdf-122-art-02.webp",
+        "width": 336,
+        "height": 336,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im3.jp2",
+        "output": "book/public/images/original/pdf-122-art-03.webp",
+        "width": 300,
+        "height": 287,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "123": {
+    "pdf_page": 123,
+    "printed_page": 119,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-123-art-01.webp",
+        "width": 285,
+        "height": 285,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im1.jp2",
+        "output": "book/public/images/original/pdf-123-art-02.webp",
+        "width": 262,
+        "height": 256,
+        "mode": "RGBA"
+      },
+      {
+        "source_image": "Im2.jp2",
+        "output": "book/public/images/original/pdf-123-art-03.webp",
+        "width": 250,
+        "height": 250,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "124": {
+    "pdf_page": 124,
+    "printed_page": 120,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-124-art-01.webp",
+        "width": 1211,
+        "height": 1137,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "125": {
+    "pdf_page": 125,
+    "printed_page": 121,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-125-art-01.webp",
+        "width": 1209,
+        "height": 481,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "126": {
+    "pdf_page": 126,
+    "printed_page": 122,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-126-art-01.webp",
+        "width": 1211,
+        "height": 753,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "127": {
+    "pdf_page": 127,
+    "printed_page": 123,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-127-art-01.webp",
+        "width": 500,
+        "height": 600,
+        "mode": "RGBA"
+      }
+    ]
   }
 }

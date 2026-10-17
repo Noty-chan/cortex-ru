@@ -62,7 +62,7 @@
 
 ## 3. Сцены
 
-Переведены с.86–96 / PDF90–100. Независимая проверка в работе, литературная вычитка впереди.
+Глава переведена целиком, с.86–107 / PDF90–111. Независимая проверка всей главы пройдена. Литературная вычитка впереди.
 
 1. [Обзор главы](./chapters/scenes) — с. 86–87.
 2. [Сцены и эпизоды](./chapters/scenes-beats) — с. 88.
@@ -72,13 +72,35 @@
 6. [Завершение сцены](./chapters/scenes-ending) — с. 92–93.
 7. [Проведение разных сцен](./chapters/scenes-running-types) — с. 94–95.
 8. [Воспоминания и завершение встречи](./chapters/scenes-flashbacks-tags) — с. 96.
+9. [Что такое конфликт](./chapters/scenes-conflict) — с. 97.
+10. [Драматический порядок и порядок действий](./chapters/scenes-order) — с. 98.
+11. [Инициатива и масштаб](./chapters/scenes-initiative-scale) — с. 99–100.
+12. [Групповые противники и помощь](./chapters/scenes-ganging-up) — с. 100.
+13. [Проверки на время](./chapters/scenes-timed-tests) — с. 101.
+14. [Пример проверки на время](./chapters/scenes-timed-example) — с. 102.
+15. [Исходы и выигрыш времени](./chapters/scenes-timed-outcomes) — с. 103.
+16. [Пример схватки — персонажи](./chapters/scenes-throwdown-characters) — с. 104.
+17. [Пример схватки — ход событий](./chapters/scenes-throwdown) — с. 105–107.
+
+## 4. Игровые встречи
+
+Глава переведена целиком, с.108–123 / PDF112–127. Независимая проверка всей главы пройдена. Литературная вычитка впереди.
+
+1. [Обзор главы](./chapters/sessions) — с. 108–109.
+2. [Подготовка встречи](./chapters/sessions-preparing) — с. 110–111.
+3. [Ситуации, конфликты и открытия](./chapters/sessions-situations) — с. 112–113.
+4. [Персонажи ведущего](./chapters/sessions-gmcs) — с. 114–115.
+5. [Места и статисты](./chapters/sessions-locations-extras) — с. 116.
+6. [Толпы](./chapters/sessions-mobs) — с. 117.
+7. [Боссы](./chapters/sessions-bosses) — с. 118.
+8. [Фракции и организации](./chapters/sessions-factions) — с. 119.
+9. [Проведение встречи](./chapters/sessions-running) — с. 120–122.
+10. [Приёмы для встреч](./chapters/sessions-tricks) — с. 123.
 
 ## Остальные главы
 
 Перевод ещё не начат:
 
-- Остаток главы «Сцены» (Prime Scenes), с.97–107.
-- Игровые встречи (Prime Sessions), с. 108–123.
 - Сеттинги (Prime Settings), с. 124–179.
 - Списки (Prime Lists), с. 180–227.
 - Словарь, указатель и приложения.

@@ -16,9 +16,10 @@
 | 2. Prime Characters: обзор, определение и наборы черт | 44–63 / PDF 48–67 | `characters.md` и `characters-*.md` до `characters-sfx.md` | сверено с оригиналом; независимая проверка пройдена |
 | 2. Prime Characters: фирменные преимущества, высказывания, таланты, создание | 64–72 / PDF 68–76 | `characters-assets-statements.md`, `characters-talents.md`, `characters-creating.md`, `characters-archetypes.md`, `characters-scratch.md` | сверено с оригиналом; независимая проверка пройдена |
 | 2. Prime Characters: жизненные пути и развитие | 73–85 / PDF 77–89 | `characters-pathways*.md`, `characters-engineer.md`, `characters-session-records.md`, `characters-growth.md`, `characters-milestones.md` | сверено с оригиналом; независимая проверка пройдена |
-| 3. Prime Scenes: виды, постановка и проведение сцен | 86–96 / PDF90–100 | `scenes.md`, `scenes-*.md` | сверено с оригиналом; независимая проверка в работе |
-| 3. Prime Scenes: конфликт и пример схватки | 97–107 / PDF101–111 | ещё не создан | не начато |
-| 4. Prime Sessions | 108–123 / PDF 112–127 | ещё не создан | не начато |
+| 3. Prime Scenes: виды, постановка и проведение сцен | 86–96 / PDF90–100 | `scenes.md`, `scenes-*.md` до `scenes-flashbacks-tags.md` | сверено с оригиналом; независимая проверка пройдена |
+| 3. Prime Scenes: конфликт и пример схватки | 97–107 / PDF101–111 | `scenes-conflict.md` — `scenes-throwdown.md` | сверено с оригиналом; независимая проверка пройдена |
+| 4. Prime Sessions: подготовка, ситуации и GMC | 108–115 / PDF112–119 | `sessions.md`, `sessions-preparing.md`, `sessions-situations.md`, `sessions-gmcs.md` | сверено с оригиналом; независимая проверка пройдена |
+| 4. Prime Sessions: толпы, боссы, организации и ведение | 116–123 / PDF120–127 | `sessions-locations-extras.md`, `sessions-mobs.md`, `sessions-bosses.md`, `sessions-factions.md`, `sessions-running.md`, `sessions-tricks.md` | сверено с оригиналом; независимая проверка пройдена |
 | 5. Prime Settings | 124–179 / PDF 128–183 | ещё не создан | не начато |
 | 6. Prime Lists | 180–227 / PDF 184–231 | ещё не создан | не начато |
 | Glossary & Index | 228–237 / PDF 232–241 | ещё не создан | не начато |
@@ -43,4 +44,4 @@
 
 ## Текущая граница перевода
 
-С.4–85 переведены и независимо проверены. С.86–96 переведены и сверены основным агентом; независимая проверка в работе. Литературная вычитка впереди. Следующий раздел: конфликт, с.97 / PDF101.
+Переведены с.4–123/PDF8–127,120 печатных страниц и71файл. Независимая проверка с.4–123 пройдена. Следующая глава Prime Settings с.124/PDF128. Литературная вычитка впереди.

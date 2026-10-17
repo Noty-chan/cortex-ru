@@ -10,7 +10,7 @@ next:
 
 # Завершение сцены {#ending-scenes}
 
-> Источник: *Cortex Prime Game Handbook*, Cam Banks, Fandom, 2020, с. 92–93 (PDF 96–97), от When to End the Scene. Статус: сверено с оригиналом; независимая проверка впереди, литературная вычитка впереди.
+> Источник: *Cortex Prime Game Handbook*, Cam Banks, Fandom, 2020, с. 92–93 (PDF 96–97), от When to End the Scene. Статус: сверено с оригиналом; независимая проверка пройдена, литературная вычитка впереди.
 
 ## Когда заканчивать сцену {#when-to-end-the-scene}
 
