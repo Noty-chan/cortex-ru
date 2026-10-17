@@ -1,7 +1,8 @@
 """Extract original embedded book artwork, retaining transparency and a manifest.
 
 Usage from repo root: python translation/tools/extract_art.py 8 27
-Decorative PNG page backgrounds are excluded; artwork in this PDF is JP2.
+Decorative PNG page backgrounds are excluded. JP2 and JPEG artwork is retained;
+JPEG has a separate stable suffix so existing JP2 references never shift.
 """
 from pathlib import Path
 from pypdf import PdfReader
@@ -22,6 +23,13 @@ for number in range(args.first, args.last+1):
     items = []
     for index, item in enumerate(x for x in reader.pages[number-1].images if x.name.endswith('.jp2')):
         path = out / f'pdf-{number:03}-art-{index+1:02}.webp'
+        if not path.exists():
+            item.image.save(path, format='WEBP', quality=95, method=4)
+        items.append({'source_image': item.name, 'output': path.as_posix(),
+                      'width': item.image.width, 'height': item.image.height,
+                      'mode': item.image.mode})
+    for index, item in enumerate(x for x in reader.pages[number-1].images if x.name.lower().endswith(('.jpg','.jpeg'))):
+        path = out / f'pdf-{number:03}-photo-{index+1:02}.webp'
         if not path.exists():
             item.image.save(path, format='WEBP', quality=95, method=4)
         items.append({'source_image': item.name, 'output': path.as_posix(),

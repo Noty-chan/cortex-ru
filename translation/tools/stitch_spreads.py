@@ -5,7 +5,7 @@ from pathlib import Path
 from PIL import Image
 from pypdf import PdfReader
 reader = PdfReader(next(Path('sources').glob('Cortex Prime - Game Handbook*.pdf')))
-pairs = [(8,9),(18,19),(34,35),(36,37),(48,49),(68,69),(90,91),(112,113),(114,115),(118,119),(128,129),(130,131),(134,135),(136,137),(138,139),(154,155),(184,185)]
+pairs = [(8,9),(18,19),(34,35),(36,37),(48,49),(68,69),(90,91),(112,113),(114,115),(118,119),(128,129),(130,131),(134,135),(136,137),(138,139),(154,155),(184,185),(212,213)]
 out = Path('book/public/images/spreads')
 out.mkdir(parents=True,exist_ok=True)
 for left,right in pairs:

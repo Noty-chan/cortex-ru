@@ -3,7 +3,9 @@ title: Электричество, аура, полёт и конструкци�
 prev:
   text: Плотность, сны, двойники и земля
   link: /chapters/lists-abilities-density-earth
-next: false
+next:
+  text: Поле, гравитация, исцеление и вода
+  link: /chapters/lists-abilities-field-water
 ---
 
 # Электричество, аура, полёт и конструкции {#abilities-electricity-constructs}

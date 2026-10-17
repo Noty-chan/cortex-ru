@@ -151,7 +151,7 @@
 
 ## 6. Списки
 
-Переведены с.180–200 / PDF184–204; независимая проверка пройдена. Литературная вычитка впереди.
+Переведены с.180–227 / PDF184–231; независимая проверка пройдена. Литературная вычитка впереди.
 
 1. [Обзор главы](./chapters/lists) — с.180–181.
 2. [Список сил](./chapters/lists-powers) — с.182.
@@ -175,10 +175,36 @@
 20. [Когти, взрывы, понимание и криокинез](./chapters/lists-abilities-claws-cryo) — с.197.
 21. [Плотность, сны, двойники и земля](./chapters/lists-abilities-density-earth) — с.198.
 22. [Электричество, аура, полёт и конструкции](./chapters/lists-abilities-electricity-constructs) — с.199–200.
+23. [Поле, гравитация, исцеление и вода](./chapters/lists-abilities-field-water) — с.201.
+24. [Иллюзии, насекомые, невидимость и неуязвимость](./chapters/lists-abilities-illusions-invulnerability) — с.202.
+25. [Свет, удача, магнетизм и чутьё](./chapters/lists-abilities-light-sense) — с.203.
+26. [Разум, паралич, растения и яд](./chapters/lists-abilities-mind-poison) — с.204.
+27. [Одержимость и похищение способностей](./chapters/lists-abilities-possession-leech) — с.205.
+28. [Предвидение, огонь, регенерация и тени](./chapters/lists-abilities-precognition-shadow) — с.206.
+29. [Тени, облик, размер и звук](./chapters/lists-abilities-shadow-sonic) — с.207.
+30. [Растяжение, призыв и сверхчувства](./chapters/lists-abilities-stretch-senses) — с.208.
+31. [Сверхскорость и сверхсила](./chapters/lists-abilities-speed-strength) — с.209.
+32. [Плавание, машины и телепатия](./chapters/lists-abilities-swimming-telepathy) — с.210.
+33. [Телепортация, время и трансмутация](./chapters/lists-abilities-teleport-transmute) — с.211.
+34. [Туннели, стены и ветер](./chapters/lists-abilities-tunnel-wind) — с.212.
+35. [Способности снаряжения](./chapters/lists-gear) — с.213.
+36. [Вехи для фэнтези](./chapters/lists-fantasy-milestones) — с.214.
+37. [Вехи для героев и странников](./chapters/lists-fantasy-milestones-heroes) — с.215.
+38. [Транспорт — черты и примеры](./chapters/lists-vehicles) — с.216.
+39. [Использование транспорта](./chapters/lists-vehicles-use) — с.217.
+40. [Создание транспорта](./chapters/lists-vehicles-build) — с.218.
+41. [Персонажи мультивселенной Cortex](./chapters/lists-multiverse) — с.219.
+42. [Мариэлла Эшфорд](./chapters/lists-mariella) — с.220.
+43. [Мстительный дух](./chapters/lists-avenging-spirit) — с.221.
+44. [Бельмариус](./chapters/lists-belmarius) — с.222.
+45. [Адмирал Шанти](./chapters/lists-chantee) — с.223.
+46. [Доктор Джеремайя Кроу](./chapters/lists-crowe) — с.224.
+47. [Юджин Доэрти](./chapters/lists-doherty) — с.225.
+48. [Эликс](./chapters/lists-elix) — с.226.
+49. [Полуночная Синева](./chapters/lists-midnight-blue) — с.227.
 
 ## Остальные главы
 
 Перевод ещё не начат:
 
-- Продолжение списка способностей и прочие списки (Prime Lists), с.201–227.
 - Словарь, указатель и приложения.
