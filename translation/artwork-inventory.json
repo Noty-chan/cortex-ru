@@ -2639,5 +2639,122 @@
     "pdf_page": 187,
     "printed_page": 183,
     "images": []
+  },
+  "188": {
+    "pdf_page": 188,
+    "printed_page": 184,
+    "images": []
+  },
+  "189": {
+    "pdf_page": 189,
+    "printed_page": 185,
+    "images": []
+  },
+  "190": {
+    "pdf_page": 190,
+    "printed_page": 186,
+    "images": []
+  },
+  "191": {
+    "pdf_page": 191,
+    "printed_page": 187,
+    "images": []
+  },
+  "192": {
+    "pdf_page": 192,
+    "printed_page": 188,
+    "images": []
+  },
+  "193": {
+    "pdf_page": 193,
+    "printed_page": 189,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-193-art-01.webp",
+        "width": 608,
+        "height": 1571,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "194": {
+    "pdf_page": 194,
+    "printed_page": 190,
+    "images": []
+  },
+  "195": {
+    "pdf_page": 195,
+    "printed_page": 191,
+    "images": []
+  },
+  "196": {
+    "pdf_page": 196,
+    "printed_page": 192,
+    "images": []
+  },
+  "197": {
+    "pdf_page": 197,
+    "printed_page": 193,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-197-art-01.webp",
+        "width": 1209,
+        "height": 637,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "198": {
+    "pdf_page": 198,
+    "printed_page": 194,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-198-art-01.webp",
+        "width": 1210,
+        "height": 820,
+        "mode": "RGBA"
+      }
+    ]
+  },
+  "199": {
+    "pdf_page": 199,
+    "printed_page": 195,
+    "images": []
+  },
+  "200": {
+    "pdf_page": 200,
+    "printed_page": 196,
+    "images": []
+  },
+  "201": {
+    "pdf_page": 201,
+    "printed_page": 197,
+    "images": []
+  },
+  "202": {
+    "pdf_page": 202,
+    "printed_page": 198,
+    "images": []
+  },
+  "203": {
+    "pdf_page": 203,
+    "printed_page": 199,
+    "images": []
+  },
+  "204": {
+    "pdf_page": 204,
+    "printed_page": 200,
+    "images": [
+      {
+        "source_image": "Im0.jp2",
+        "output": "book/public/images/original/pdf-204-art-01.webp",
+        "width": 842,
+        "height": 1281,
+        "mode": "RGBA"
+      }
+    ]
   }
 }

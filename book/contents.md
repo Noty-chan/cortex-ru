@@ -151,17 +151,34 @@
 
 ## 6. Списки
 
-Переведены с.180–183 / PDF184–187; независимая проверка пройдена. Литературная вычитка впереди.
+Переведены с.180–200 / PDF184–204; независимая проверка пройдена. Литературная вычитка впереди.
 
 1. [Обзор главы](./chapters/lists) — с.180–181.
 2. [Список сил](./chapters/lists-powers) — с.182.
 3. [Атакующие силы](./chapters/lists-powers-attacks) — с.182.
 4. [Прочность](./chapters/lists-powers-durability) — с.183.
-5. [Управление стихиями](./chapters/lists-powers-elements) — с.183.
+5. [Управление стихиями](./chapters/lists-powers-elements) — с.183–184.
+6. [Неосязаемость и интеллект](./chapters/lists-powers-intangibility) — с.184.
+7. [Невидимость и копирование](./chapters/lists-powers-invisibility-mimic) — с.184–185.
+8. [Силы перемещения](./chapters/lists-powers-movement) — с.185.
+9. [Психические силы](./chapters/lists-powers-psychic) — с.185–186.
+10. [Рефлексы, сопротивление и чувства](./chapters/lists-powers-reflexes-senses) — с.186–187.
+11. [Смена облика и размера](./chapters/lists-powers-shapeshift-size) — с.187–188.
+12. [Колдовство, выносливость и сила](./chapters/lists-powers-sorcery-stamina) — с.188–189.
+13. [Растяжение, телепортация и трансмутация](./chapters/lists-powers-stretch-teleport) — с.190.
+14. [Спецэффекты сил — атаки и усиление](./chapters/lists-power-sfx) — с.191.
+15. [Спецэффекты сил — защита и гибкость](./chapters/lists-power-sfx-options) — с.192.
+16. [Ограничения сил](./chapters/lists-power-limits) — с.193.
+17. [Список способностей](./chapters/lists-abilities) — с.194.
+18. [Поглощение, адаптация и животные](./chapters/lists-abilities-absorption-animals) — с.195.
+19. [Астральная проекция, удар, превращение и ци](./chapters/lists-abilities-astral-chi) — с.196.
+20. [Когти, взрывы, понимание и криокинез](./chapters/lists-abilities-claws-cryo) — с.197.
+21. [Плотность, сны, двойники и земля](./chapters/lists-abilities-density-earth) — с.198.
+22. [Электричество, аура, полёт и конструкции](./chapters/lists-abilities-electricity-constructs) — с.199–200.
 
 ## Остальные главы
 
 Перевод ещё не начат:
 
-- Продолжение списков (Prime Lists), с.184–227.
+- Продолжение списка способностей и прочие списки (Prime Lists), с.201–227.
 - Словарь, указатель и приложения.
