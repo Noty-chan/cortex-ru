@@ -19,6 +19,7 @@ export default defineConfig({
         { text: 'Начало', link: '/' },
         { text: 'Оглавление', link: '/contents' },
         { text: 'Глоссарий', link: '/glossary' },
+        { text: 'Решения переводчика', link: '/source-issues-review' },
         { text: 'Страницы оригинала', link: '/source-pages' },
       ] },
       { text: 'Введение', items: [

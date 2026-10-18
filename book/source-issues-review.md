@@ -1,5 +1,5 @@
 ---
-title: Разбор неясностей — сравнение версий
+title: Принятые решения переводчика
 ---
 
-<!--@include: ../translation/source-issues-reassessment.md-->
+<!--@include: ../translation/editorial-rulings.md-->
