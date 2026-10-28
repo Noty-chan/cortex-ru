@@ -5,6 +5,12 @@
   --vp-font-family-base: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 .dark { --vp-c-brand-1: #b4aaff; --vp-c-brand-2: #c6beff; }
+.docs-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin: 20px 0 28px; }
+.vp-doc a.docs-card { display: flex; flex-direction: column; gap: 6px; padding: 18px; min-height: 112px; border: 1px solid var(--vp-c-divider); border-radius: 12px; background: var(--vp-c-bg-soft); text-decoration: none; color: var(--vp-c-text-1); transition: border-color .15s, background .15s; }
+.vp-doc a.docs-card:hover { border-color: var(--vp-c-brand-1); background: var(--vp-c-bg-alt); }
+.docs-card strong { color: var(--vp-c-brand-1); font-size: 16px; }
+.docs-card span { color: var(--vp-c-text-2); font-size: 14px; line-height: 1.5; }
+.vp-doc table { display: block; max-width: 100%; overflow-x: auto; }
 .vp-doc p, .vp-doc li { line-height: 1.85; }
 .reader-tools {
   display: flex; align-items: center; flex-wrap: wrap; gap: 12px;
@@ -25,6 +31,7 @@
 .bookmark-list a { overflow-wrap: anywhere; }
 button:focus-visible, a:focus-visible { outline: 2px solid var(--vp-c-brand-1); outline-offset: 3px; }
 @media (max-width: 640px) {
+  .docs-grid { grid-template-columns: 1fr; }
   .vp-doc { font-size: 17px; }
   .reader-tools { gap: 10px; }
 }

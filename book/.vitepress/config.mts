@@ -224,7 +224,7 @@ export default defineConfig({
         { text: 'Лист персонажа', link: '/character-sheet' },
         { text: 'Неясности оригинала', link: '/source-issues' },
       ] },
-    ],
+    ].map((section, index) => ({ ...section, collapsed: index !== 0 })),
     search: {
       provider: 'local',
       options: { locales: { root: { translations: {
